@@ -8,4 +8,4 @@ This project is designed to help HR professionals better understand the underlyi
 * Developed an interactive Excel dashboard to provide HR teams with clear, visual insights into employee attrition trends and risk factors, supporting strategic decision-making around workforce planning and retention
 
 
-![Evolutionary Optimisation](images/evolutionary_optimisation.png)
+![attrition_1](images/attrition_eda_1_of_3.png)
