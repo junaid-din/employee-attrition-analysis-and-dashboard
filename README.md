@@ -8,9 +8,9 @@ This project is designed to help HR professionals better understand the underlyi
 * Developed an interactive Excel dashboard to provide HR teams with clear, visual insights into employee attrition trends and risk factors, supporting strategic decision-making around workforce planning and retention
 
 <p align="center">
-  <img src="images/attrition_eda_1_of_3.png" width="340" height="300">
-  <img src="images/attrition_eda_2_of_3.png" width="340" height="300">
-  <img src="images/attrition_eda_3_of_3.png" width="340" height="300">
+  <img src="images/attrition_eda_1_of_3.png" width="335" height="300">
+  <img src="images/attrition_eda_2_of_3.png" width="335" height="300">
+  <img src="images/attrition_eda_3_of_3.png" width="335" height="300">
 </p>
 
 
