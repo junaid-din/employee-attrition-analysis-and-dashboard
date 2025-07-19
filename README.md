@@ -1,6 +1,6 @@
 ## Employee attrition Analysis and Excel Dashboard 
 
-## 📄 License
+#### 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
 © 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
