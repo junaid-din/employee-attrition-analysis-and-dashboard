@@ -1,10 +1,5 @@
 ## Employee attrition Analysis and Excel Dashboard 
 
-#### 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
-
 This project is designed to help HR professionals better understand the underlying factors that contribute to employee attrition within an organization. High attrition rates can disrupt team dynamics, increase recruitment and training costs, and impact overall productivity. By analyzing employee data, the project aims to identify key trends and risk indicators such as job role, satisfaction levels, department etc. that may influence an employee’s likelihood to leave. These insights can support HR in developing targeted retention strategies, improving employee engagement, and proactively addressing potential issues before they lead to turnover offering HR teams a practical tool for monitoring attrition patterns and making informed, data-driven decisions.
 
 Tasks completed:
@@ -19,7 +14,10 @@ Tasks completed:
   <img src="images/attrition_eda_2_of_2.png" style="display: inline-block; width: 350px;">
 </div>
 
+## 📄 License
 
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
 
 
 
