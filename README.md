@@ -14,7 +14,7 @@ Tasks completed:
   <img src="images/attrition_eda_2_of_2.png" style="display: inline-block; width: 350px;">
 </div>
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
 © 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
